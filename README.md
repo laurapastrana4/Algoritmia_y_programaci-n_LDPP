@@ -1,2 +1,2 @@
-# Algoritmia_y_programaci-n_LDPP
+# Algoritmia_y_programacion_LDPP
 Taller de estructuras de control secuenciales
